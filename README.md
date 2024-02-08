@@ -1,8 +1,9 @@
-👋 Thunderboom Records is the world's first record label for robots.  specialise in responsible AI-driven music tools and virtual artists.
-At Thunderboom Records, we believe that AI-powered music tools and virtual artists are an inevitable future because the developments in the field of AI and 3D media are more than promising.
+👋 Thunderboom Records is an independent innovation lab at the cutting edge of music and new technology such as AI and mixed reality.
 
-It is our goal to make sure that AI will always be an enrichment to human creative expression, instead of a threat. 
-To reach this goal, we bring together multi-disciplinary project teams with musicians, technologists and designers to develop and produce responsible AI-powered music tools, artists, and live shows.
-In 2020, Thunderboom Records was registered as a non-profit foundation to ensure that future creative AI technology will always be open and accessible to us all.
+Our goal is to ensure that new technology is always enriching our human creative expression, rather than harming it.
+
+To reach our goal, we initiate and produce technology-driven music projects together with a great diversity of artists, audiences, designers, programmers and music industry professionals.
+
+Our projects take many forms: from open-source AI tools to keynote series and from virtual artists to accessible hardware.
 
 Check out our work at www.thunderboomrecords.com
